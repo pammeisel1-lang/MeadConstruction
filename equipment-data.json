@@ -1,0 +1,19 @@
+[
+  {
+    "id": "emgcuii3",
+    "name": "Test direct",
+    "cat": "COMPRESSOR",
+    "make": "",
+    "model": "",
+    "serial": "",
+    "loc": "",
+    "test": "PSSR Written Scheme",
+    "intervalMonths": 12,
+    "last": "2026-07-02",
+    "status": "in",
+    "notes": "",
+    "photo": null,
+    "certs": [],
+    "history": []
+  }
+]
